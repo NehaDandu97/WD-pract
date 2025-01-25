@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS styling</title>
+    <!-- <style>
+        h2{
+            color: red;
+            background-color: greenyellow;
+        }
+    </style> -->
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <!-- <h1 style="color: blueviolet;">Inline styling demo . It has more priority</h1> -->
+
+    <!-- <h2>using style tag</h2> -->
+
+    <h3>using stylesheet</h3>
+    <p>color-plum is foreground(front) used to set text,button,link and background -black is background(back)</p>
+   
+    <h4>element selector</h4>
+    <h4>element selector</h4>
+    <h4>element selector</h4>
+
+    <h5 id="id1">id selector1-used for unique id's</h5>
+    <h5 id="id2">id selector2</h5>
+
+    <h6 class="c1">class selector</h6>
+    <p class="c1">multiple elements need same id -we use class selector</button>
+          
+</body>
+</html>
+
+
+
+<---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+/* h3{
+    color: brown;
+}
+p{
+    color: plum;
+    background-color: black;
+}
+button{
+    color: blueviolet;
+    background-color: burlywood;
+}
+body{
+    background-color:#ff00ff;
+} */
+/* rgb(255,0, 0) , #ff0000-red
+rgb(0, 255, 0) , #00ff00-green
+rgb(0, 0, 255) , #0000ff-blue
+rgb(255, 255, 255) , #ffffff-white
+rgb(0, 0, 0) , #000000-black 
+rgb(255, 255, 0) , #ffff00-yellow
+rgb(0, 255, 255) , #00ffff-light blue
+rgb(255, 0, 255) , #ff00ff-pink */
+
+
+/* *{
+    color: #ff00ff;
+} */
+
+/* h3{
+    color: brown;
+} */
+
+/* #id1{
+    color: brown;
+} */
+
+/* .c1{
+    color: blueviolet;
+} */
