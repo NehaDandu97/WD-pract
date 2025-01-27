@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS styling</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <!-- <hr> -->
+
+    <!-- <h1>Heading</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque maxime eveniet accusamus, quas eius amet corporis recusandae laudantium unde doloremque cupiditate architecto! Quae in minima atque repellendus et adipisci doloremque!</p>
+    <button>Click me!</button>
+    <div>
+        This is a div
+    </div> -->
+
+    <!-- <div>Div1</div>
+    <br>
+    <div>Div2</div>
+    <br>
+    <div>Div3</div> -->
+
+</body>
+</html>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+/* Height and Width*/
+/* div{
+    width: 400px;
+    height: 100px;
+    background-color: blue;
+}
+h1{
+    width: 200px;
+    height: 50px;
+    background-color: chartreuse;
+} */
+
+/* Border */
+/* h1 {
+    width: 200px;
+    height: 50px;
+    background-color: chartreuse;
+    border: 7px solid black;
+    text-align: center;
+}
+
+div {
+    width: 400px;
+    height: 100px;
+    background-color: gray;
+    border-width: 6px;
+    border-style: dashed;
+    border-color: yellow;
+} */
+
+/* Border-radius - both height and width are equal and radius set 50% - circle */
+
+/* div {
+    width: 400px;
+    height: 100px;
+    background-color: gray;
+    border: 5px solid purple;
+    border-radius: 10px;
+} */
+
+/* div {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    border: 5px solid purple;
+    border-radius: 50%;
+} */
+
+/* Padding */
+/* div {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    border: 5px solid purple;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+
+} */
+
+/* div {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    border: 5px solid purple;
+    padding: 50px;
+
+} */
+
+/* div {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    border: 5px solid purple;
+    padding: 1px 2px 3px 4px;
+
+} */
+
+/* Margin */
+/* div{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    border: 5px solid purple;
+    padding: 50px;
+    margin: 25px;
+} */
+
