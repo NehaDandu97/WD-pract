@@ -1,0 +1,128 @@
+HTML CODE:
+<!-- <div>this is box</div> -->
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/* Transitions  */
+/* Transitions enable you to define the transition between two states of an element. 
+
+transition-property: property you want to transition (font-size, width etc.) transition-duration: 2s/4ms (time to takes place transition)
+transition-timing-function: ease-in / ease-out / linear / steps (different styles)
+transition-delay: 2s/4ms..(wait and starts) */
+        /* transition-property: all;
+        transition-duration: 2s;
+        transition-timing-function: steps(3);
+        transition-delay: 1s; */
+
+/* div{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    background-color: aqua;
+    transition: all 2s ease-in 1s;
+  
+}
+div:hover{
+    background-color: blueviolet;
+    color: yellow;
+    font-size: 20px;
+}
+div:active{
+    background-color: palevioletred;
+} */
+
+/* CSS Transform -apply 2D & 3D transformation to an element */
+
+/* Rotate */
+/* div {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    background-color: aqua;
+    transform: rotate(45deg);
+}
+
+div:hover {
+    background-color: blueviolet;
+    color: yellow;
+    font-size: 20px;
+}
+
+div:active {
+    background-color: palevioletred;
+} */
+
+/* scale - increase or decrease  */
+
+/* div {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    background-color: aqua;
+    transition: all 2s ease-in;
+}
+
+div:hover {
+    background-color: blueviolet;
+    color: yellow;
+    font-size: 20px;
+    transform: scale(2);
+}
+
+div:active {
+    background-color: palevioletred;
+} */
+
+/* Translate - can be both +&- x and y axis [transform: translateX(-50px);] , [transform: translateY(-50px);
+]*/
+
+/* div {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    background-color: aqua;
+    transition: all 2s ease-in;
+}
+
+div:hover {
+    background-color: blueviolet;
+    color: yellow;
+    font-size: 20px;
+    transform: translate(100px,80px);
+    transform: skew(90deg);
+}
+
+div:active {
+    background-color: palevioletred;
+} */
+
+/* skew  */
+
+/* div {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    background-color: aqua;
+    transition: all 2s ease-in;
+}
+
+div:hover {
+    background-color: blueviolet;
+    color: yellow;
+    font-size: 20px;
+    transform: skew(45deg);
+}
+
+div:active {
+    background-color: palevioletred;
+} */
