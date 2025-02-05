@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS styling</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<!-- <hr> -->
+
+    <!-- <div id="box1">
+        <div id="box2">
+            Box
+        </div>
+    </div> -->
+
+    <!-- hello
+    <div id="box1">
+        Box 1
+        <div id="box2">
+            Box 2
+        </div>
+    </div> -->
+
+
+    <!-- <div id="box4">Box 4</div>
+    <h1>Position dispaly</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero itaque cupiditate dolorum, laudantium doloribus praesentium unde. Facilis laborum aperiam quos molestiae eos reprehenderit quod, impedit, ut deserunt reiciendis pariatur explicabo.
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero itaque cupiditate dolorum, laudantium doloribus
+    praesentium unde. Facilis laborum aperiam quos molestiae eos reprehenderit quod, impedit, ut deserunt reiciendis
+    pariatur explicabo.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero itaque cupiditate dolorum, laudantium doloribus
+    praesentium unde. Facilis laborum aperiam quos molestiae eos reprehenderit quod, impedit, ut deserunt reiciendis
+    pariatur explicabo.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero itaque cupiditate dolorum, laudantium doloribus
+    praesentium unde. Facilis laborum aperiam quos molestiae eos reprehenderit quod, impedit, ut deserunt reiciendis
+    pariatur explicabo.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero itaque cupiditate dolorum, laudantium doloribus
+    praesentium unde. Facilis laborum aperiam quos molestiae eos reprehenderit quod, impedit, ut deserunt reiciendis
+    pariatur explicabo.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero itaque cupiditate dolorum, laudantium doloribus
+    praesentium unde. Facilis laborum aperiam quos molestiae eos reprehenderit quod, impedit, ut deserunt reiciendis
+    pariatur explicabo.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero itaque cupiditate dolorum, laudantium doloribus
+    praesentium unde. Facilis laborum aperiam quos molestiae eos reprehenderit quod, impedit, ut deserunt reiciendis
+    pariatur explicabo.
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero itaque cupiditate dolorum, laudantium doloribus
+    praesentium unde. Facilis laborum aperiam quos molestiae eos reprehenderit quod, impedit, ut deserunt reiciendis
+    pariatur explicabo.
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero itaque cupiditate dolorum, laudantium doloribus
+    praesentium unde. Facilis laborum aperiam quos molestiae eos reprehenderit quod, impedit, ut deserunt reiciendis
+    pariatur explicabo.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero itaque cupiditate dolorum, laudantium
+    doloribus
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero itaque cupiditate dolorum, laudantium doloribus
+    praesentium unde. Facilis laborum aperiam quos molestiae eos reprehenderit quod, impedit, ut deserunt reiciendis
+    pariatur explicabo.
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero itaque cupiditate dolorum, laudantium doloribus
+    praesentium unde. Facilis laborum aperiam quos molestiae eos reprehenderit quod, impedit, ut deserunt reiciendis
+    pariatur explicabo.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero itaque cupiditate dolorum, laudantium
+    doloribus
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero itaque cupiditate dolorum, laudantium doloribus
+    praesentium unde. Facilis laborum aperiam quos molestiae eos reprehenderit quod, impedit, ut deserunt reiciendis
+    pariatur explicabo.
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero itaque cupiditate dolorum, laudantium doloribus
+    praesentium unde. Facilis laborum aperiam quos molestiae eos reprehenderit quod, impedit, ut deserunt reiciendis
+    pariatur explicabo.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero itaque cupiditate dolorum, laudantium
+    doloribus
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero itaque cupiditate dolorum, laudantium doloribus
+    praesentium unde. Facilis laborum aperiam quos molestiae eos reprehenderit quod, impedit, ut deserunt reiciendis
+    pariatur explicabo.
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero itaque cupiditate dolorum, laudantium doloribus
+    praesentium unde. Facilis laborum aperiam quos molestiae eos reprehenderit quod, impedit, ut deserunt reiciendis
+    pariatur explicabo.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero itaque cupiditate dolorum, laudantium
+    doloribus
+    </p>
+    <div id="box1">Box 1</div>
+    <div id="box2">Box 2</div>
+    <div id="box3">Box 3</div>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto, distinctio amet impedit assumenda error libero quia dolorem delectus qui, nostrum, numquam sed! Quos quod alias ad quisquam molestias veniam id.
+    A nostrum voluptatum inventore accusamus eveniet nam esse quisquam asperiores, recusandae commodi rem! Facilis alias iure optio commodi, harum, doloribus, sed reiciendis debitis veritatis magni et libero explicabo esse. Cumque?
+    Eum mollitia quo ipsa eos, illum dicta, reiciendis hic earum quam at maxime harum neque voluptatem. Sit voluptas commodi dicta nesciunt, natus, nisi eveniet aspernatur libero ducimus ab laudantium dolor.
+    Perferendis tempora iure obcaecati distinctio quae, libero neque expedita fugit minima tenetur quo corrupti ad accusamus ut, mollitia quis repudiandae quos dolores? Quis blanditiis dignissimos doloribus consectetur provident ipsam temporibus!
+    Temporibus, nam! Beatae aut blanditiis magnam enim fuga dolorum sit eaque quaerat porro ad at minima, vero optio ex quis error doloremque, laboriosam doloribus? Est possimus alias vero blanditiis repudiandae.
+    Enim inventore assumenda quibusdam repellat, ea molestias fuga veritatis ipsum officia facilis dolorem laboriosam temporibus delectus aliquid, saepe quia eligendi reiciendis cum? Id aliquid voluptatibus culpa, expedita vitae est cum!Temporibus, nam! Beatae aut blanditiis magnam enim fuga dolorum sit eaque quaerat porro ad at minima, vero optio ex quis
+    error doloremque, laboriosam doloribus? Est possimus alias vero blanditiis repudiandae.
+    Enim inventore assumenda quibusdam repellat, ea molestias fuga veritatis ipsum officia facilis dolorem laboriosam
+    temporibus delectus aliquid, saepe quia eligendi reiciendis cum? Id aliquid voluptatibus culpa, expedita vitae est cum!Temporibus, nam! Beatae aut blanditiis magnam enim fuga dolorum sit eaque quaerat porro ad at minima, vero optio ex quis
+    error doloremque, laboriosam doloribus? Est possimus alias vero blanditiis repudiandae.
+    Enim inventore assumenda quibusdam repellat, ea molestias fuga veritatis ipsum officia facilis dolorem laboriosam
+    temporibus delectus aliquid, saepe quia eligendi reiciendis cum? Id aliquid voluptatibus culpa, expedita vitae est cum!Temporibus, nam! Beatae aut blanditiis magnam enim fuga dolorum sit eaque quaerat porro ad at minima, vero optio ex quis
+    error doloremque, laboriosam doloribus? Est possimus alias vero blanditiis repudiandae.
+    Enim inventore assumenda quibusdam repellat, ea molestias fuga veritatis ipsum officia facilis dolorem laboriosam
+    temporibus delectus aliquid, saepe quia eligendi reiciendis cum? Id aliquid voluptatibus culpa, expedita vitae est cum!Temporibus, nam! Beatae aut blanditiis magnam enim fuga dolorum sit eaque quaerat porro ad at minima, vero optio ex quis
+    error doloremque, laboriosam doloribus? Est possimus alias vero blanditiis repudiandae.
+    Enim inventore assumenda quibusdam repellat, ea molestias fuga veritatis ipsum officia facilis dolorem laboriosam
+    temporibus delectus aliquid, saepe quia eligendi reiciendis cum? Id aliquid voluptatibus culpa, expedita vitae est cum!Temporibus, nam! Beatae aut blanditiis magnam enim fuga dolorum sit eaque quaerat porro ad at minima, vero optio ex quis
+    error doloremque, laboriosam doloribus? Est possimus alias vero blanditiis repudiandae.
+    Enim inventore assumenda quibusdam repellat, ea molestias fuga veritatis ipsum officia facilis dolorem laboriosam
+    temporibus delectus aliquid, saepe quia eligendi reiciendis cum? Id aliquid voluptatibus culpa, expedita vitae est cum!Temporibus, nam! Beatae aut blanditiis magnam enim fuga dolorum sit eaque quaerat porro ad at minima, vero optio ex quis
+    error doloremque, laboriosam doloribus? Est possimus alias vero blanditiis repudiandae.
+    Enim inventore assumenda quibusdam repellat, ea molestias fuga veritatis ipsum officia facilis dolorem laboriosam
+    temporibus delectus aliquid, saepe quia eligendi reiciendis cum? Id aliquid voluptatibus culpa, expedita vitae est cum!Temporibus, nam! Beatae aut blanditiis magnam enim fuga dolorum sit eaque quaerat porro ad at minima, vero optio ex quis
+    error doloremque, laboriosam doloribus? Est possimus alias vero blanditiis repudiandae.
+    Enim inventore assumenda quibusdam repellat, ea molestias fuga veritatis ipsum officia facilis dolorem laboriosam
+    temporibus delectus aliquid, saepe quia eligendi reiciendis cum? Id aliquid voluptatibus culpa, expedita vitae est cum!Temporibus, nam! Beatae aut blanditiis magnam enim fuga dolorum sit eaque quaerat porro ad at minima, vero optio ex quis
+    error doloremque, laboriosam doloribus? Est possimus alias vero blanditiis repudiandae.
+    Enim inventore assumenda quibusdam repellat, ea molestias fuga veritatis ipsum officia facilis dolorem laboriosam
+    temporibus delectus aliquid, saepe quia eligendi reiciendis cum? Id aliquid voluptatibus culpa, expedita vitae est cum!Temporibus, nam! Beatae aut blanditiis magnam enim fuga dolorum sit eaque quaerat porro ad at minima, vero optio ex quis
+    error doloremque, laboriosam doloribus? Est possimus alias vero blanditiis repudiandae.
+    Enim inventore assumenda quibusdam repellat, ea molestias fuga veritatis ipsum officia facilis dolorem laboriosam
+    temporibus delectus aliquid, saepe quia eligendi reiciendis cum? Id aliquid voluptatibus culpa, expedita vitae est cum!Temporibus, nam! Beatae aut blanditiis magnam enim fuga dolorum sit eaque quaerat porro ad at minima, vero optio ex quis
+    error doloremque, laboriosam doloribus? Est possimus alias vero blanditiis repudiandae.
+    Enim inventore assumenda quibusdam repellat, ea molestias fuga veritatis ipsum officia facilis dolorem laboriosam
+    temporibus delectus aliquid, saepe quia eligendi reiciendis cum? Id aliquid voluptatibus culpa, expedita vitae est cum!Temporibus, nam! Beatae aut blanditiis magnam enim fuga dolorum sit eaque quaerat porro ad at minima, vero optio ex quis
+    error doloremque, laboriosam doloribus? Est possimus alias vero blanditiis repudiandae.
+    Enim inventore assumenda quibusdam repellat, ea molestias fuga veritatis ipsum officia facilis dolorem laboriosam
+    temporibus delectus aliquid, saepe quia eligendi reiciendis cum? Id aliquid voluptatibus culpa, expedita vitae est cum!</p> -->
+
+
+    
+    <!-- <h1>postion dispaly</h1>
+    <div id="b1" style="background-color: brown;">box1</div>
+    <div id="b2" style="background-color: green;">box2</div>
+    <div id="b3" style="background-color: blue;">box3</div>
+    <div id="b4" style="background-color: pink;">box4</div> -->
+    
+    <!-- <h1>Background image </h1>
+    <div id="b1" style="background-color: brown;">box1</div>
+    <div id="b2" style="background-color: green;">box2</div>
+    <div id="b3" style="background-color: blue;">box3</div>
+    <div id="b4" style="background-color: pink;">box4</div> -->
+
+<!-- <hr> -->
+        
+</body>
+</html>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/* Units - Relative(changes) */
+/* % */
+/* #box1{
+    height: 100px;
+    width: 100px;
+    background-color: cadetblue;
+}
+#box2{
+    height: 50px;
+    width: 30%;
+    background-color: blueviolet;
+    margin-left: 10%;
+} */
+
+/* em - 2em-two times of parent's font size , 0.5 half of parent's font size */
+/* #box1 {
+    height: 100px;
+    width: 200px;
+    background-color: cadetblue;
+    font-size: 10px;
+}
+
+#box2 {
+    height: 50px;
+    width: 30%;
+    background-color: blueviolet;
+    margin-left: 10%;
+    font-size: 2em;
+    width: 5em;
+} */
+
+/* rem - root em  multiple of outer element px  */
+/* #box1 {
+    height: 100px;
+    width: 200px;
+    background-color: cadetblue;
+    font-size: 10px;
+}
+
+#box2 {
+    height: 50px;
+    width: 30%;
+    background-color: blueviolet;
+    margin-left: 10%;
+    font-size: 2em;
+    width: 5rem;
+} */
+
+/* vh and vw */
+/* #box1 {
+    height: 100px;
+    width: 200px;
+    background-color: cadetblue;
+    font-size: 10px;
+}
+
+#box2 {
+    height: 100vh;
+    width: 30%;
+    background-color: blueviolet;
+    margin-left: 10%;
+    font-size: 2em;
+    width: 100vh;
+} */
+
+/* Position */
+
+/* static - default position (The top, right, bottom, left, and z-index properties have no effect)  
+relative - element is relative to itself. (The top, right, bottom, left, and z-index will work)
+absolute - positioned relative to its closest positioned ancestor. (removed from flow)
+fixed - positioned relative to browser. (removed from flow)
+sticky - position based on user's scroll position  */
+
+
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+} */
+/* #box1{
+    position: static;
+}
+#box2{
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+#box3{
+    position: absolute;
+    top: 500px;
+    left: 20px;
+}
+#box4{
+    position: fixed;
+    top:0;
+} */
+
+/* #box1 {
+    position: static;
+}
+
+#box2 {
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+
+#box3 {
+    position: sticky;
+    top: 0px;
+    left: 20px;
+}
+
+#box4 {
+    position: fixed;
+    top: 0;
+} */
+
+/* Z - Index -decides the stack level of elements (which block should be up or down) up=1 , down=-1 , auto(0)-normal*/
+
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+#b1{
+    position: static;
+}
+#b2{
+    position: relative;
+    top: 20px;
+    left: 10px;
+    z-index: 1;
+}
+#b3{
+    position: absolute;
+    top: 500px;
+    left: 20px;
+}
+#b4{
+    position: fixed;
+    top:50;
+ }*/
+ 
+ /* Background image  and size*/
+
+/* cover - doesnt leaves any gaps 
+contain - fit image visible 
+auto - defalut image */
+
+/* div {
+     height: 100px;
+     width: 100px;
+     background-color: aqua;
+     border: 2px solid black;
+     display: inline-block;
+     
+ } */
+/* #b1{
+    background-image: url("HelloFolder/original.jpg");
+    background-size: cover;
+} */
+
+/* body{
+    background-image: url("HelloFolder/original.jpg");
+    background-size: cover;
+} */
+
+/* #b1{
+    background-image: url("HelloFolder/original.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+} */
+
+/* #b1 {
+    background-image: url("HelloFolder/original.jpg");
+    background-size: auto;
+} */
+
+
+
