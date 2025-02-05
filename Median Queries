@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS styling</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <!-- <div>
+
+    </div> -->
+        
+</body>
+</html>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/* Media Queries */
+/* max-width-smaller
+min-width-greater
+width-exact width point */
+
+/* div{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+@media (width:600px) {
+    div{
+        background-color: blue;
+    }
+    
+}
+@media (min-width:600px) {
+    div{
+        background-color: green;
+    }
+    
+}
+@media (max-width:600px) {
+    div {
+        background-color: black;
+    }
+
+}
+@media (min-width:200px) and (max-width:300px) {
+    div {
+        background-color: purple;
+    }
+
+} */
